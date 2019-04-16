@@ -2,7 +2,7 @@
 Here you can find a bunch of themes, made by various players of GreyHack.
 
 ## How to download the themes?
-You can download the themes in two ways.<br>
+You can download the themes in two ways.<hr>
 <ul>
   <li>Clone the repo. <code style="background-color:#5a5a5a">git clone https://github.com/maxiotech/greyhack-themes</code></li>
   <li>Use the direct download link in the themes readme file</li>
