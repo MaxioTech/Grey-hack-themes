@@ -13,7 +13,7 @@ You can download the themes in two ways.
 ## How to import and use the themes?
 There's multiple ways to import the theme.
 <ul>
-  <li>Copy and paste the content of the <code style="background-color:#5a5a5a">\<theme\>.conf</code> into a new file ingame.</li>
+  <li>Copy and paste the content of the <code style="background-color:#5a5a5a">\[theme].conf</code> into a new file ingame.</li>
   <li>More options coming soon</li>
 </ul>
 <i>I'm currently making guide with images and such, so stay tuned for that!</i>
